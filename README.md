@@ -204,7 +204,7 @@ The project explores the practical application of:
 
 ## 👨‍💻 Author
 
-**Avish**
+**Himangshu**
 
 Computer Applications Student | Python Developer | AI/ML Enthusiast
 
